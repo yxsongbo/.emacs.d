@@ -7,13 +7,14 @@ an 按
 an-niu 按钮
 an-zhuang 安装
 an-zhuang-bao 安装包
-b 白 变 不 包 保 毕 波
+b 把 白 变 不 包 保 毕 波
 b-c 本次 保存
 b-c-z 保存在
 b-f 部分 部份
 b-g-s 办公室
 b-h 包含 不画
 b-h-l 不合理 毕红玲
+b-j 标记
 b-j-b 笔记本
 b-k 不堪
 b-l-x 不理想
@@ -27,6 +28,7 @@ b-y-d 不一定
 b-y-z 不一致
 b-z 标准 标注 标柱
 b-z-d 不知道
+ba 把
 bai 白
 bai-xin 百信
 ban-gong-shi 办公室
@@ -42,6 +44,7 @@ bi-mian 避免
 bi-ti 鼻涕
 bi-xu 必须
 bian 变
+biao-ji 标记
 biao-ming 标明
 biao-zhu 标注 标柱
 biao-zhun 标准
@@ -59,7 +62,7 @@ bu-yao 不要
 bu-yi-ding 不一定
 bu-yi-zhi 不一致
 bu-zhi-dao 不知道
-c 才 出 抄 成 从 擦 脆 常 测 穿 曾 词
+c 从 才 出 抄 成 擦 脆 常 测 穿 曾 词
 c-c 常常
 c-d 词典 长短 充当
 c-f 吃饭 拆分
@@ -70,6 +73,7 @@ c-k 参考 查看 词库
 c-l 出来
 c-r 插入
 c-s 尝试 测试
+c-s-j 长时间
 c-t 春天 出题
 c-x 撤销 出现
 c-x-k 曾学康
@@ -90,6 +94,7 @@ chang 常
 chang-chang 常常
 chang-duan 长短
 chang-shi 尝试
+chang-shi-jian 长时间
 chang-yong 常用
 chao 抄
 che-xiao 撤销
@@ -112,7 +117,7 @@ ci-ku 词库
 cong 从
 cui 脆
 cun-zai 存在
-d 的 等 到 度 渡 道 提 但 得 读 都 冬 大 点 答 第 地 对
+d 到 的 迨 等 度 渡 道 提 但 得 读 都 冬 大 点 答 第 地 对
 d-a 答案
 d-c 导出
 d-e-h 第二行
@@ -120,7 +125,7 @@ d-f 地方
 d-h 电话
 d-j 点击 大家
 d-k 打开
-d-l 带来 打了 登录
+d-l 锻炼 带来 打了 登录
 d-n 电脑
 d-s 倒是 都是
 d-t 答题
@@ -146,6 +151,7 @@ da-ti-nei-de 大题内的
 da-xiao 大小
 da-yin-shi 打印室
 da-yu 大于
+dai 迨
 dai-lai 带来
 dan 但
 dan-xin 担心
@@ -170,6 +176,7 @@ dou 都
 dou-shi 都是
 du 度 渡 读 都
 du-shi 都是
+duan-lian 锻炼
 dui 对
 e 二 而
 e-s 而是
@@ -266,11 +273,12 @@ guo-qu 过去
 guo-zhao 过着
 guo-zhe 过着
 guo-zhuo 过着
-h 好 和 喝 还 化 会 画 华 很 后 号 横
+h 和 好 喝 还 化 会 画 华 很 后 号 横
 h-b 合并
 h-c-l 画出来
-h-d 核对
+h-d 好多 核对
 h-d-r 很多人
+h-f 恢复
 h-h 很好
 h-h-x 画横线
 h-l 回来 很冷 红玲
@@ -281,6 +289,7 @@ h-y 回应
 h-z 或者 惠珍 绘制
 hai 还
 hao 好 号
+hao-duo 好多
 hao-le-xie 好了些
 he 和 喝
 he-bing 合并
@@ -300,20 +309,21 @@ hua-chu-lai 画出来
 hua-heng-xian 画横线
 huan 还
 hui 会
+hui-fu 恢复
 hui-lai 回来
 hui-ying 回应
 hui-zhen 惠珍
 hui-zhi 绘制
 huo 和
 huo-zhe 或者
-j 家 就 几 将 教 卷 及 给 截 校 届 机
+j 就 今 家 几 将 教 卷 及 给 截 校 届 机
 j-b 脚本
 j-c 坚持 校测
 j-d 强调 觉得 绝对 校对
 j-f 机房
 j-g 交给
 j-h 几乎
-j-j 简洁 解决 拮据
+j-j 积极 简洁 解决 拮据
 j-k-n 尽可能
 j-l 降了 尽力 距离 尽量
 j-m 荆门
@@ -328,6 +338,7 @@ j-z 今早 接着 禁止
 ji 几 及 给 机
 ji-fang 机房
 ji-hu 几乎
+ji-ji 积极
 jia 家
 jia-ru 加入
 jian-chi 坚持
@@ -350,6 +361,7 @@ jie-ju 拮据
 jie-jue 解决
 jie-tu 截图
 jie-zhe 接着
+jin 今
 jin-ke-neng 尽可能
 jin-li 尽力
 jin-liang 尽量
@@ -370,6 +382,7 @@ k-d 科大
 k-j 科技 空间
 k-j-j 快捷键
 k-l 可乐
+k-n 可能
 k-s 考试 快速 开始
 k-x 开学
 k-y 可以
@@ -383,13 +396,14 @@ ke 科
 ke-da 科大
 ke-ji 科技
 ke-le 可乐
+ke-neng 可能
 ke-yi 可以
 kong-jian 空间
 kuai 会
 kuai-jie-jian 快捷键
 kuai-su 快速
 kuang 框
-l 了 理 流 列 刘 例 留 来
+l 来 了 累 六 理 流 列 刘 例 留
 l-c 流程 两次
 l-d 来到
 l-g 两个
@@ -412,6 +426,7 @@ lai-dao 来到
 lao-ji 老吉
 lao-shi 老师 老实
 le 了
+lei 累
 li 理 例
 li-ke 理科
 li-ru 例如
@@ -426,7 +441,7 @@ liao 了
 lie 列
 ling-wai 另外
 ling-zhao 灵照
-liu 流 刘 留
+liu 六 流 刘 留
 liu-cheng 流程
 liu-ge-bu-ting 流个不停
 liu-lan-qi 浏览器
@@ -534,6 +549,7 @@ r 入 如 任 人 让
 r-g 人工 如果
 r-h 然后 如何
 r-j 任教
+r-q 日期
 r-w 任务 人物
 r-x 人性 入校
 r-y 如有 任意
@@ -545,13 +561,14 @@ ren-jiao 任教
 ren-wu 任务 人物
 ren-xing 人性
 ren-yi 任意
+ri-qi 日期
 ru 入 如
 ru-guo 如果
 ru-he 如何
 ru-xiao 入校
 ru-you 如有
-s 是 适 上 寺 三 市 省 送 说 双 睡 时 宋
-s-b 送别 鼠标 生病 识别 宋波
+s 上 是 适 寺 三 市 省 送 说 双 睡 时 宋
+s-b 上班 生病 送别 鼠标 识别 宋波
 s-b-q-c 说不清楚
 s-c 生成
 s-d 速度 手动 送到
@@ -566,7 +583,7 @@ s-o 谁哦
 s-r 虽然
 s-r-f 输入法
 s-w 稍微
-s-x 失效 数学 事项
+s-x 实现 失效 数学 事项
 s-x-y 宋昕怡
 s-y 使用 适应
 s-z 设置 实在 数字
@@ -574,6 +591,7 @@ san 三
 san-fen-zhi-yi 三分之一
 san-lan 三栏
 shang 上
+shang-ban 上班
 shang-jiao 上角
 shao-wei 稍微
 she-ji 设计
@@ -589,6 +607,7 @@ shi-hou 时候
 shi-ji 实际
 shi-jie 世界
 shi-juan 试卷
+shi-xian 实现
 shi-xiang 事项
 shi-xiao 失效
 shi-ying 适应
@@ -617,6 +636,7 @@ song-xin-yi 宋昕怡
 su-du 速度
 sui-ran 虽然
 t 统 提 贴 题 她 图 涂 填
+t-b 同步
 t-g 通过
 t-h 太好 题号
 t-j 添加
@@ -639,28 +659,30 @@ tian-tu 填涂
 tiao-zheng 调整
 tie 贴
 tong 统
+tong-bu 同步
 tong-guo 通过
 tong-zhi 通知
 tu 图 涂
 tu-pian 图片
 tu-xing 图形
-w 我 王 网 文 问 为 误 无
+w 晚 我 王 网 文 问 为 误 无
 w-b 文本
 w-c 完成
 w-d 误导
-w-j 忘记 午觉 文件
+w-j 文件 忘记 午觉
 w-j-j 文件夹
 w-k 文科
 w-l 网络 温了
 w-l-j 王老吉
 w-m 我们
 w-s 晚上
-w-t 问题 文体
+w-t 文体 问题
 w-w 无误
 w-x 我校 微信 无休 威信
 w-x-b 王向波
 w-z 文字 文综
 w-z-j 我自己
+wan 晚
 wan-cheng 完成
 wan-shang 晚上
 wang 王 网
@@ -677,7 +699,7 @@ wen-jian-jia 文件夹
 wen-ke 文科
 wen-le 温了
 wen-liao 温了
-wen-ti 问题 文体
+wen-ti 文体 问题
 wen-zi 文字
 wen-zong 文综
 wo 我
@@ -690,7 +712,7 @@ wu-jiao 午觉
 wu-jue 午觉
 wu-wu 无误
 wu-xiu 无休
-x 下 性 选 信 小 向 线 校 迅 新 学
+x 下 懈 性 选 信 小 向 线 校 迅 新 学
 x-c 现成 选词 校测
 x-d 校对
 x-f 迅飞
@@ -740,6 +762,7 @@ xiao-guo 效果
 xiao-le 小了
 xiao-liao 小了
 xiao-ti 小题
+xie 懈
 xie-gang 斜杠
 xin 信 新
 xin-xi 信息
@@ -758,7 +781,7 @@ xue-ke 学科
 xue-sheng 学生
 xun 迅
 xun-fei 迅飞
-y 有 一 阴 以 已 与 要 右 阅 永 用 印 也 又 业 月 页 由 圆
+y 以 有 一 阴 已 与 要 右 阅 永 用 印 也 又 业 月 页 由 圆
 y-c 一次
 y-d 一定 要点 一道 一点
 y-d-b 移动版
@@ -768,7 +791,7 @@ y-f 一份 衣服 业芳
 y-g 应该 一个
 y-g-j 有感觉
 y-h 要和
-y-j 已经 依旧 阅卷 邮件
+y-j 研究 已经 依旧 阅卷 邮件
 y-j-j 阅卷机
 y-l 一路 预览 阅览
 y-l-c 要留出
@@ -779,13 +802,15 @@ y-r 一人 有人
 y-s 元素 以上 印刷 雨水 也说
 y-s-j 右上角
 y-s-q 印刷前
-y-w 语文 因为
+y-s-x 以实现
+y-w 因为 语文
 y-x 油箱
 y-x-j 右下角
 y-y 用于
 y-y-j 用邮件
 y-z 一直 一致 验证 一阵 一周
 y-z-d 一直到
+yan-jiu 研究
 yan-zheng 验证
 yao 要
 yao-dian 要点
@@ -796,7 +821,7 @@ ye 也 业 页
 ye-fang 业芳
 ye-mian 页面
 ye-shuo 也说
-yi 一 以 已
+yi 以 一 已
 yi-ci 一次
 yi-dao 一道
 yi-dian 一点
@@ -812,6 +837,7 @@ yi-mian 以免
 yi-ping 一瓶
 yi-ren 一人
 yi-shang 以上
+yi-shi-xian 以实现
 yi-zhen 一阵
 yi-zhi 一直 一致
 yi-zhi-dao 一直到
@@ -844,7 +870,7 @@ yue-du-qi 阅读器
 yue-juan 阅卷
 yue-juan-ji 阅卷机
 yue-lan 阅览
-z 中 在 照 粘 做 值 组 左 着 指 综 再 找 坐 证 准 作 正 只 智 至 这 张
+z 中 在 着 周 照 粘 做 值 组 左 指 综 再 找 坐 证 准 作 正 只 智 至 这 张
 z-b 准备
 z-c 正常 直尺 组成 照抄
 z-d 最多 自带 找到 最大
@@ -854,7 +880,7 @@ z-f 这份
 z-g 整个
 z-h 字号 最好 之后 知乎 帐号 做好
 z-h-z 张惠珍
-z-j 自己 中间 之间
+z-j 增加 自己 中间 之间
 z-k-z-h 准考证号
 z-l 做了
 z-m 怎么 正面
@@ -866,18 +892,19 @@ z-w 作为 找我
 z-w-f 中午饭
 z-x 指向 仔细 智学
 z-x-w 智学网
-z-y 资源 主要 左右 注意 重要 这样
+z-y 周一 资源 主要 左右 注意 重要 这样
 z-y-c 再一次
 z-y-l 注意力
 z-z 组织 最终 制作 照着
 zai 在 再
 zai-yi-ci 再一次
 zen-me 怎么
+zeng-jia 增加
 zhan 粘
 zhang 张
 zhang-hao 帐号
 zhang-hui-zhen 张惠珍
-zhao 照 着 找
+zhao 着 照 找
 zhao-chao 照抄
 zhao-dao 找到
 zhao-wo 找我
@@ -906,6 +933,8 @@ zhong 中
 zhong-jian 中间
 zhong-wu-fan 中午饭
 zhong-yao 重要
+zhou 周
+zhou-yi 周一
 zhu-yao 主要
 zhu-yi 注意
 zhu-yi-li 注意力
