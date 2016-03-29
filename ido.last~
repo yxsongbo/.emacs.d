@@ -1,0 +1,89 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/yxson/Dropbox/doc/" . "net/")
+ ("g:/" . ".emacs.d/")
+ ("c:/Users/yxson/Dropbox/Temp/" . "rime/")
+ ("c:/Users/yxson/Dropbox/" . "Temp/")
+ ("c:/Users/" . "yxson/")
+ ("c:/Users/yxson/.emacs.d.space/layers/" . "chinese/")
+ ("c:/Users/yxson/.emacs.d.space/" . "layers/")
+ ("c:/Users/yxson/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/yxson/Dropbox/doc/"
+ "c:/Users/yxson/"
+ "c:/Users/yxson/.emacs.d/"
+ "g:/.emacs.d/"
+ "g:/emacs-25-20160229T070659Z-bin-i686-mingw32/bin/"
+ "c:/Users/yxson/dtk/"
+ "c:/Users/yxson/.emacs.d/pyim/"
+ "c:/Users/yxson/Dropbox/Temp/rime/"
+ "c:/Users/yxson/.emacs.d.space/layers/chinese/"
+ "c:/Users/yxson/.emacs.d.space/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "diary.org"
+ "a.cmd"
+ "init.el"
+ "net1.org"
+ "net.org"
+ "sethome.bat"
+ "答题卡制作说明.org"
+ "pyim-personal.txt"
+ "dtk.org"
+ "pyim-bigdict.pyim"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/yxson/Dropbox/doc/" (22263 56108 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
+
+ ("c:/Users/yxson/.emacs.d/pyim/" (22263 49664 0 0) "pyim-words-property.txt" "pyim-personal.txt" "dicts/" "../" "./")
+
+ ("c:/Users/yxson/.emacs.d/" (22263 49664 0 0) "url/" "recentf~" "recentf" "pyim/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "chinese-fonts-setup/" "auto-save-list/" ".emacs~" "../" "./")
+
+ ("c:/Users/yxson/" (22263 55907 0 0) "「开始」菜单/" "_viminfo" "zhao/" "VirtualBox VMs/" "Videos/" "Templates/" "SendTo/" "Searches/" "Saved Games/" "s2e" "Recent/" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{89898583-d741-11e5-80c7-cf5529683ce4}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{89898583-d741-11e5-80c7-cf5529683ce4}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{89898583-d741-11e5-80c7-cf5529683ce4}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "mplayer/" "Local Settings/" "Links/" "Favorites/" "e2s" "dtk/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "3D Objects/" ".VirtualBox/" ".vimrc.sb" ".viminfo" ".vim/" ".ssh/" ".spacemacs" ".history" ".gnupg/" ".emacs.d.space/" ".emacs.d.prelude/" ".emacs.d/" ".cache/" ".bash_history" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/" (22263 50876 0 0) "教务/" "信息技术/" "Temp/" "Public/" "New Text Document.txt" "ex/" "doc/" "desktop.ini" "Apps/" ".spacemacs" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/doc/vim/" (22263 55197 0 0) "vimrc.vim" "vimrc (Thinkpad 的冲突副本 2013-08-04).vim" "vimfiles/" ".vimrc" ".netrwhist" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/doc/vim/vimfiles/" (22263 51176 0 0) "syntax/" "so/" "ruby/" "README" "plugin/" "keymap/" "indent/" "ftplugin/" "ftdetect/" "doc/" "compiler/" "colors/" "bundle/" "autoload/" ".VimballRecord" ".netrwhist" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/doc/net/" (22263 21210 0 0) "star.png" "IMAG1595.jpg" "../" "./")
+
+ ("g:/.emacs.d/" (22255 58476 0 0) "recentf~" "recentf" "pyim-bigdict.pyim" "pyim/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "chinese-fonts-setup/" "auto-save-list/" ".emacs~" "../" "./")
+
+ ("g:/emacs-25-20160229T070659Z-bin-i686-mingw32/" (21924 50975 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("g:/emacs-25-20160229T070659Z-bin-i686-mingw32/bin/" (22259 61372 0 0) "sethome.bat" "runemacs.exe" "etags.exe" "emacs_backtrace.txt" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" ".emacs.d/" "../" "./")
+
+ ("c:/Users/yxson/.emacs.d.space/" (22259 59978 0 0) "tests/" "spacemacs.mk" "server/" "recentf" "README.md" "pyim/" "private/" "layers/" "init.el" "image-dired/" "elpa/" "doc/" "core/" "CONTRIBUTING.org" "CHANGELOG.org" "assets/" ".travis.yml" ".travis-build.sh" ".projectile" ".gitignore" ".github/" ".git/" ".cache/" "../" "./")
+
+ ("c:/Users/yxson/.emacs.d.space/layers/chinese/" (22254 37300 0 0) "README.org" "packages.el" "img/" "config.el" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/Temp/rime/" (22254 2977 0 0) "winxp-on-virtualbox/" "win81-on-jwc/" "Ubuntu15.10/" "ubuntu-on-Thinkpad-T500/" "ubuntu 16.04 on ThinkPad/" "ubuntu 14.04 Dell/" "README.org" "README-zh.org" "pyim-bigdict.pyim" "Presicion/" "Linux Mint 17.3/" "fcitx.el" "debian8/" "Dartmouth/" "../" "./")
+
+ ("c:/Users/yxson/dtk/" (22237 36042 0 0) "答题卡制作说明.org" "答题卡制作说明.html" "styles/" "setup/" "readtheorg.png" "README.org" "README.html" "demo/" "bigblow.png" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/Temp/" (22228 17266 0 0) "联想win10系列号.JPG" "学生信息.csv" "同事2014.xls" "保险/" "soft/" "rime/" "password.txt" "others/" "local/" "lc.xlsx" "Hiragana_PracticeChart.pdf" "goagent-goagent-98e62ea/" "fglog.txt" "fg758p.exe" "fg757p.exe" "fg.ini" "fg (DESKTOP-LL78A41 的冲突副本 2016-02-29).ini" "fg (DESKTOP-D4PFVJG 的冲突副本 2016-02-28).ini" "fg/" "dtwpc.dat" "Camera Uploads from 毕 (1)/" "Camera Uploads/" "App/" "../" "./")
+
+ ("c:/Users/" (22215 29183 0 0) "yxson/" "Public/" "desktop.ini" "Default.migrated/" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/yxson/.emacs.d.space/layers/" (22225 2380 0 0) "typography/" "theming/" "themes-megapack/" "syntax-checking/" "spotify/" "spell-checking/" "speed-reading/" "smex/" "shell/" "semantic/" "search-engine/" "restclient/" "prodigy/" "osx/" "org/" "nixos/" "LAYERS.org" "jabber/" "ibuffer/" "gtags/" "geolocation/" "floobits/" "finance/" "deft/" "cscope/" "colors/" "chrome/" "chinese/" "better-defaults/" "auto-completion/" "+window-management/" "+vim/" "+tools/" "+source-control/" "+lang/" "+keyboard-layouts/" "+irc/" "+fun/" "+frameworks/" "+email/" "+distribution/" "+config-files/" "../" "./")
+
+ ("c:/Users/yxson/Documents/" (22211 63899 0 0) "WeChat Files/" "My Videos/" "My Pictures/" "My Music/" "emacs-24.5-bin-i686-mingw32/" "desktop.ini" "../" "./")
+
+ ("c:/Users/yxson/Documents/emacs-24.5-bin-i686-mingw32/" (22210 27030 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("c:/Users/yxson/Documents/emacs-24.5-bin-i686-mingw32/bin/" (22210 26796 0 0) "runemacs.exe" "libXpm.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.5.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
