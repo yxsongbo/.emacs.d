@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 30 Mar 2016 00:53:08 GMT
+Content-Type: application/json;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: SESSION_FROM_COOKIE=YouDaoCV; domain=fanyi.youdao.com; path=/
+Set-Cookie: OUTFOX_SEARCH_USER_ID=70096687@119.62.142.39; domain=youdao.com; expires=Fri, 23-Mar-2046 00:53:08 GMT
+Set-Cookie: SESSION_FROM_COOKIE=YouDaoCV; domain=fanyi.youdao.com; path=/
+
+{"translation":["全球"],"basic":{"us-phonetic":"'ɡlobl","phonetic":"'gləʊb(ə)l","uk-phonetic":"'gləʊb(ə)l","explains":["adj. 全球的；总体的；球形的"]},"query":"global","errorCode":0,"web":[{"value":["全球","全局","全球性"],"key":"Global"},{"value":["环球资源","环球资源","举世资源"],"key":"Global Sources"},{"value":["全球城市","全球城市","全球都市"],"key":"global city"}]}
