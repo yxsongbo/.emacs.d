@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("c:/Users/yxsongbo/" . "Dropbox/")
  ("c:/Users/yxson/Dropbox/doc/" . "net/")
  ("g:/" . ".emacs.d/")
  ("c:/Users/yxson/Dropbox/Temp/" . "rime/")
@@ -14,6 +15,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "c:/Users/yxsongbo/.emacs.d/"
+ "c:/Users/yxsongbo/Dropbox/doc/"
  "c:/Users/yxson/Dropbox/doc/"
  "c:/Users/yxson/"
  "c:/Users/yxson/.emacs.d/"
@@ -28,12 +31,12 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "init.el"
+ "net.org"
  "diary.org"
  "note.org"
  "a.cmd"
- "init.el"
  "net1.org"
- "net.org"
  "sethome.bat"
  "答题卡制作说明.org"
  "pyim-personal.txt"
@@ -42,6 +45,14 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("c:/Users/yxsongbo/.emacs.d/" (22267 8908 0 0) "url/" "recentf~" "recentf" "pyim/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "chinese-fonts-setup/" "auto-save-list/" ".git/" ".emacs~" "../" "./")
+
+ ("c:/Users/yxsongbo/Dropbox/doc/" (22267 7480 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
+
+ ("c:/Users/yxsongbo/Dropbox/" (22267 7479 0 0) "教务/" "捕获.PNG" "信息技术/" "Temp/" "Public/" "New Text Document.txt" "ex/" "doc/" "desktop.ini" "Apps/" "16104020020414_马雪雯.xls" ".spacemacs" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("c:/Users/yxsongbo/" (22267 8881 0 0) "高中三年级文数单科成绩.xls" "姓名库样本2016.xls" "「开始」菜单/" "_viminfo" "VirtualBox VMs/" "Videos/" "Templates/" "SogouDownload/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "orghtml/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{3413a3b5-7f1f-11e5-80c5-90b11c269050}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{3413a3b5-7f1f-11e5-80c5-90b11c269050}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{3413a3b5-7f1f-11e5-80c5-90b11c269050}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "dtk/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "aaaaaaaaaaa.xls" ".VirtualBox/" ".vimrc" ".viminfo" ".ssh/" ".gnupg/" ".emacs.d。default/" ".emacs.d.space/" ".emacs.d.latest/" ".emacs.d.aaa/" ".emacs.d/" ".bash_history" ".android/" "../" "./")
+
  ("c:/Users/yxson/Dropbox/doc/" (22266 37400 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
 
  ("c:/Users/yxson/.emacs.d/pyim/" (22263 49664 0 0) "pyim-words-property.txt" "pyim-personal.txt" "dicts/" "../" "./")

@@ -29,6 +29,7 @@
 ;; ----- ido-work-file-list -----
 (
  "diary.org"
+ "note.org"
  "a.cmd"
  "init.el"
  "net1.org"
@@ -37,12 +38,11 @@
  "答题卡制作说明.org"
  "pyim-personal.txt"
  "dtk.org"
- "pyim-bigdict.pyim"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/yxson/Dropbox/doc/" (22263 61890 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
+ ("c:/Users/yxson/Dropbox/doc/" (22266 37400 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
 
  ("c:/Users/yxson/.emacs.d/pyim/" (22263 49664 0 0) "pyim-words-property.txt" "pyim-personal.txt" "dicts/" "../" "./")
 

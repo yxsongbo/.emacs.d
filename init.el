@@ -64,7 +64,7 @@
 (setq default-input-method "chinese-pyim")
 (global-set-key (kbd "C-\\") 'toggle-input-method)
 (setq pyim-dicts
-      '((:name "dict1" :file "C:/Users/yxson/Dropbox/Temp/rime/pyim-bigdict.pyim" :coding utf-8-unix :dict-type pinyin-dict)))
+      '((:name "dict1" :file "~/.emacs.d/pyim/pyim-bigdict.pyim" :coding utf-8-unix :dict-type pinyin-dict)))
 (setq-default pyim-punctuation-half-width-functions
                 '(pyim-probe-punctuation-line-beginning
                   pyim-probe-punctuation-after-punctuation))
