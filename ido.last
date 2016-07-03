@@ -2,6 +2,8 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/sb/Dropbox/" . "doc/")
+ ("/home/sb/" . "Dropbox/")
  ("c:/Users/yxsongbo/" . "Dropbox/")
  ("c:/Users/yxson/Dropbox/doc/" . "net/")
  ("g:/" . ".emacs.d/")
@@ -15,6 +17,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/sb/Dropbox/doc/"
+ "/home/sb/.emacs.d/"
  "c:/Users/yxsongbo/.emacs.d/"
  "c:/Users/yxsongbo/Dropbox/doc/"
  "c:/Users/yxson/Dropbox/doc/"
@@ -31,10 +35,10 @@
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
- "net.org"
- "diary.org"
  "note.org"
+ "init.el"
+ "diary.org"
+ "net.org"
  "a.cmd"
  "net1.org"
  "sethome.bat"
@@ -45,6 +49,16 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/sb/" (22393 2606 824036 317000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
+
+ ("/home/sb/Dropbox/doc/" (22393 4276 721820 114000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" ".#jw" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "net.org~" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw" "net/")
+
+ ("/home/sb/.emacs.d/" (22392 51401 657563 995000) "init.el~" ".git/" "../" "init.el" "chinese-fonts-setup/" "recentf" "auto-save-list/" "pyim/" "recentf~" "ido.last" "ido.last~" ".emacs~" "url/" "./" "elpa/")
+
+ ("/home/" (22359 29227 229441 920000) "../" "sb/" "./")
+
+ ("/home/sb/Dropbox/" (22392 29647 149818 496000) "Temp/" "Public/" ".spacemacs" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./")
+
  ("c:/Users/yxsongbo/.emacs.d/" (22267 8908 0 0) "url/" "recentf~" "recentf" "pyim/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "chinese-fonts-setup/" "auto-save-list/" ".git/" ".emacs~" "../" "./")
 
  ("c:/Users/yxsongbo/Dropbox/doc/" (22267 7480 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
