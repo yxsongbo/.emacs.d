@@ -509,7 +509,7 @@ pian-shang 偏上
 ping 瓶
 pu 普
 pu-shuang-hua 普双华
-q 圈 去 前 晴 其 请 器 骑 却 且 区 墙
+q 琼 圈 去 前 晴 其 请 器 骑 却 且 区 墙
 q-b 浅薄 铅笔
 q-c 骑车 清楚 起床
 q-c-f 去吃饭
@@ -1087,3 +1087,8 @@ o-z 欧洲
 wen-ming-shi 文明史
 w-m-s 文明史
 cun-dang 存档
+xiao-yan 肖艳
+x-y 肖艳
+qiong 琼
+xiao-yan-qiong 肖艳琼
+x-y-q 肖艳琼

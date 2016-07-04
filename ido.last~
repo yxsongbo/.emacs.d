@@ -17,11 +17,11 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "c:/Users/yxson/Dropbox/doc/"
  "/home/sb/Dropbox/doc/"
  "/home/sb/.emacs.d/"
  "c:/Users/yxsongbo/.emacs.d/"
  "c:/Users/yxsongbo/Dropbox/doc/"
- "c:/Users/yxson/Dropbox/doc/"
  "c:/Users/yxson/"
  "c:/Users/yxson/.emacs.d/"
  "g:/.emacs.d/"
@@ -35,6 +35,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "life.org"
  "note.org"
  "init.el"
  "diary.org"
@@ -44,11 +45,14 @@
  "sethome.bat"
  "答题卡制作说明.org"
  "pyim-personal.txt"
- "dtk.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("c:/Users/yxson/Dropbox/doc/" (22393 46649 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "怡怡的作文.doc" "怡怡" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim/" "teaching/" "tcpip.org" "res/" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw~" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" ".#jw" "../" "./")
+
+ ("c:/Users/yxson/Dropbox/" (22394 6000 0 0) "李勇的足球队.xls" "教务/" "国网学生花名册_2016年02月29日15时36分.xls" "信息技术/" "Temp/" "Public/" "ex/" "doc/" "dictionary.txt" "desktop.ini" "Apps/" "2016年7月附中到三中监考的老师.xls" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" ".spacemacs" ".dropbox.cache/" ".dropbox" "../" "./")
+
  ("/home/sb/" (22393 2606 824036 317000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
 
  ("/home/sb/Dropbox/doc/" (22393 4276 721820 114000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" ".#jw" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "net.org~" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw" "net/")
@@ -67,15 +71,11 @@
 
  ("c:/Users/yxsongbo/" (22267 8881 0 0) "高中三年级文数单科成绩.xls" "姓名库样本2016.xls" "「开始」菜单/" "_viminfo" "VirtualBox VMs/" "Videos/" "Templates/" "SogouDownload/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "orghtml/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{3413a3b5-7f1f-11e5-80c5-90b11c269050}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{3413a3b5-7f1f-11e5-80c5-90b11c269050}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{3413a3b5-7f1f-11e5-80c5-90b11c269050}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "dtk/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "aaaaaaaaaaa.xls" ".VirtualBox/" ".vimrc" ".viminfo" ".ssh/" ".gnupg/" ".emacs.d。default/" ".emacs.d.space/" ".emacs.d.latest/" ".emacs.d.aaa/" ".emacs.d/" ".bash_history" ".android/" "../" "./")
 
- ("c:/Users/yxson/Dropbox/doc/" (22266 37400 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim.bak.rar" "vim/" "teaching/" "tcpip.org" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" "../" "./")
-
  ("c:/Users/yxson/.emacs.d/pyim/" (22263 49664 0 0) "pyim-words-property.txt" "pyim-personal.txt" "dicts/" "../" "./")
 
  ("c:/Users/yxson/.emacs.d/" (22263 49664 0 0) "url/" "recentf~" "recentf" "pyim/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "chinese-fonts-setup/" "auto-save-list/" ".emacs~" "../" "./")
 
  ("c:/Users/yxson/" (22263 55907 0 0) "「开始」菜单/" "_viminfo" "zhao/" "VirtualBox VMs/" "Videos/" "Templates/" "SendTo/" "Searches/" "Saved Games/" "s2e" "Recent/" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{89898583-d741-11e5-80c7-cf5529683ce4}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{89898583-d741-11e5-80c7-cf5529683ce4}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{89898583-d741-11e5-80c7-cf5529683ce4}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "mplayer/" "Local Settings/" "Links/" "Favorites/" "e2s" "dtk/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "3D Objects/" ".VirtualBox/" ".vimrc.sb" ".viminfo" ".vim/" ".ssh/" ".spacemacs" ".history" ".gnupg/" ".emacs.d.space/" ".emacs.d.prelude/" ".emacs.d/" ".cache/" ".bash_history" "../" "./")
-
- ("c:/Users/yxson/Dropbox/" (22263 50876 0 0) "教务/" "信息技术/" "Temp/" "Public/" "New Text Document.txt" "ex/" "doc/" "desktop.ini" "Apps/" ".spacemacs" ".dropbox.cache/" ".dropbox" "../" "./")
 
  ("c:/Users/yxson/Dropbox/doc/vim/" (22263 55197 0 0) "vimrc.vim" "vimrc (Thinkpad 的冲突副本 2013-08-04).vim" "vimfiles/" ".vimrc" ".netrwhist" "../" "./")
 
