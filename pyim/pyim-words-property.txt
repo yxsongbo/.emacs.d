@@ -1,7 +1,7 @@
 ;; -*- coding: utf-8 -*-
 测试 :count 3
-宋波 :count 2
-毕红玲 :count 2
+宋波 :count 3
+毕红玲 :count 3
 你好 :count 2
 世界 :count 2
 已经 :count 2
@@ -36,3 +36,12 @@
 书架 :count 2
 神明 :count 2
 肖艳琼 :count 2
+宋昕怡 :count 2
+以前 :count 2
+使用 :count 2
+两行 :count 2
+避免 :count 2
+利用 :count 2
+配置 :count 4
+方法 :count 2
+冯书 :count 2

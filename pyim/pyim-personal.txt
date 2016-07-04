@@ -8,7 +8,7 @@ an-niu 按钮
 an-zhuang 安装
 an-zhuang-bao 安装包
 b 把 白 变 不 包 保 毕 波
-b-c 本次 保存
+b-c 补充 本次 保存
 b-c-z 保存在
 b-f 部分 部份
 b-g-s 办公室
@@ -18,7 +18,7 @@ b-j 比较 标记
 b-j-b 笔记本
 b-k 不堪
 b-l-x 不理想
-b-m 标明 避免
+b-m 避免 标明
 b-n 不能
 b-s 不是
 b-t 鼻涕
@@ -192,7 +192,7 @@ f-k 反馈
 f-m 方面
 f-p 分配
 f-r 放入
-f-s 方式 分数 发送 分散
+f-s 冯书 方式 分数 发送 分散
 f-w 访问
 f-w-q 服务器
 f-z 放在 分值 复制
@@ -286,7 +286,7 @@ h-l-x 好了些
 h-s 很少 红色
 h-x 还想 横线
 h-y 还有 回应
-h-z 或者 惠珍 绘制
+h-z 很早 或者 惠珍 绘制
 hai 还
 hao 好 号
 hao-duo 好多
@@ -319,7 +319,7 @@ huo-zhe 或者
 j 就 旧 今 家 几 将 教 卷 及 给 截 校 届 机
 j-b 具备 脚本
 j-c 坚持 校测
-j-d 强调 觉得 绝对 校对
+j-d 简单 强调 觉得 绝对 校对
 j-f 机房
 j-g 借过 交给
 j-h 几乎
@@ -333,7 +333,7 @@ j-s 介绍 就是
 j-t 今天 截图 强调 具体
 j-w 交往
 j-w-c 教务处
-j-x 决心
+j-x 镜像 决心
 j-z 就在 今早 接着 禁止
 ji 几 及 给 机
 ji-fang 机房
@@ -403,7 +403,7 @@ kuai 会
 kuai-jie-jian 快捷键
 kuai-su 快速
 kuang 框
-l 了 来 领 论 累 六 理 流 列 刘 例 留
+l 来 了 领 论 累 六 理 流 列 刘 例 留
 l-c 流程 两次
 l-d 来到
 l-g 两个
@@ -416,7 +416,7 @@ l-r 例如
 l-s 老师 老实
 l-t 两天
 l-w 另外
-l-x 练习
+l-x 两行 练习
 l-y 利用
 l-y-q 路由器
 l-y-x 刘永信
@@ -448,7 +448,7 @@ liu-lan-qi 浏览器
 liu-yong-xin 刘永信
 lu-jing 路径
 lu-you-qi 路由器
-m 吗 慢 面 每 名
+m 面 吗 慢 每 名
 m-b 目标
 m-c 名称
 m-d 每道
@@ -580,7 +580,7 @@ s-k 水库
 s-l 胜利 三栏
 s-m 神明 说明
 s-o 谁哦
-s-r 虽然 输入
+s-r 山人 虽然 输入
 s-r-f 输入法
 s-w 稍微
 s-x 实现 失效 数学 事项
@@ -882,7 +882,7 @@ z-h 字号 最好 之后 知乎 帐号 做好
 z-h-z 张惠珍
 z-j 增加 自己 中间 之间
 z-k-z-h 准考证号
-z-l 这类 做了
+z-l 子龙 这类 做了
 z-m 怎么 正面
 z-n 智能
 z-q 准确
@@ -998,7 +998,7 @@ b-y-d-x 不用担心
 chao-qi 超期
 c-q 超期
 zhen-shi 真是
-z-s 至少 重视 真是
+z-s 注释 至少 重视 真是
 tai 太
 pei 配
 fu 副
@@ -1092,3 +1092,14 @@ x-y 肖艳
 qiong 琼
 xiao-yan-qiong 肖艳琼
 x-y-q 肖艳琼
+hen-zao 很早
+liang-xing 两行
+luan-ma 乱码
+l-m 乱码
+zi-long 子龙
+shan-ren 山人
+jing-xiang 镜像
+feng-shu 冯书
+jian-dan 简单
+bu-chong 补充
+zhu-shi 注释

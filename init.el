@@ -1,11 +1,23 @@
+;; 很早以前，使用下面两行来避免乱码
 ;; (set-fontset-font "fontset-default"
 ;; 'gb18030 '("Microsoft YaHei" . "unicode-bmp"))
 
+;; 利用子龙山人的melpa镜像
+;;(setq package-archives '(("gnu"   . "http://elpa.zilongshanren.com/gnu/")
+;;                         ("melpa" . "http://elpa.zilongshanren.com/melpa/")))
 
-;; how to install packages using elpa,MELPA
-(setq package-archives '(("gnu"   . "http://elpa.zilongshanren.com/gnu/")
-                         ("melpa" . "http://elpa.zilongshanren.com/melpa/")))
+
+;;冯书的package配置
+(require 'package)
+(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages") t)
+(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa") t)
+
 (package-initialize)
+(setq package-unsigned-archives '("gnu"))
+
+;; use-package
+(require 'use-package)
+
 
 
 ;;Open recently opened file:recentf-mode
@@ -22,6 +34,9 @@
 (require 'evil)
 (evil-mode 1)
 
+;; chinese-pyim 的简单配置
+;; 补充：emacs注释的方法
+;; 先选中区域，然后M-x comment-region，会根据mode自动选择注释类型。
 (require 'chinese-pyim)
 (require 'chinese-pyim-greatdict)
 (chinese-pyim-greatdict-enable)
@@ -31,8 +46,8 @@
 (setq pyim-use-tooltip 'popup)
 (setq x-gtk-use-system-tooltips t)
 
-;;(require 'org-bullets)
-;;(add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
+(require 'org-bullets)
+(add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
 
   
 ;;(load-theme 'spacemacs-dark t)
