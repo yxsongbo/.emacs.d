@@ -45,6 +45,7 @@
 ;;选词框设置,可以让字体不能大了可以大些吗不能再大了
 (setq pyim-use-tooltip 'popup)
 (setq x-gtk-use-system-tooltips t)
+(set-face-attribute 'popup-tip-face nil :height 300)
 
 (require 'org-bullets)
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))

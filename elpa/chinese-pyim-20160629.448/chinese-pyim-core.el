@@ -327,7 +327,7 @@ Chinese-pyim 输入半角标点，函数列表中每个函数都有一个参数�
   :group 'chinese-pyim
   :type 'function)
 
-(defcustom pyim-tooltip-width-adjustment 1.2
+(defcustom pyim-tooltip-width-adjustment 2
   "校正 tooltip 选词框宽度的数值，表示校正后的宽度是未校正前宽度的倍数。
 
 由于字体设置等原因，pos-tip 选词框实际宽度会比 *预期宽度* 偏大或者偏小，
