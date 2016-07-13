@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/" . "sb/")
  ("/home/sb/.emacs.d/elpa/" . "chinese-pyim-20160629.448/")
  ("/home/sb/.emacs.d/" . "elpa/")
  ("/home/sb/Dropbox/" . "doc/")
@@ -19,8 +20,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/"
  "/home/sb/Dropbox/doc/"
+ "/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/"
  "/home/sb/.emacs.d/"
  "c:/Users/yxson/Dropbox/doc/"
  "c:/Users/yxsongbo/.emacs.d/"
@@ -38,37 +39,37 @@
 
 ;; ----- ido-work-file-list -----
 (
- "chinese-pyim-core.el"
  "diary.org"
+ "jw"
+ "net.org"
+ "chinese-pyim-core.el"
  "dtk.org"
  "computer.org"
  "blog.org"
  "init.el"
  "life.org"
  "note.org"
- "net.org"
- "a.cmd"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/" (22394 20776 566275 412000) "../" "chinese-pyim-pkg.el" "chinese-pyim-autoloads.el~" "chinese-pyim-core.el" ".dir-local.el" "chinese-pyim.elc" "chinese-pyim-core.elc" "chinese-pyim.el" "chinese-pyim-dictools.elc" "chinese-pyim-probe.el" "chinese-pyim-pymap.el" "chinese-pyim-pymap.elc" "chinese-pyim-company.el" "chinese-pyim-devtools.el" "chinese-pyim-autoloads.el" "chinese-pyim-dictools.el" "chinese-pyim-utils.elc" "chinese-pyim-utils.el" "chinese-pyim-benchmark.el" "chinese-pyim-probe.elc" "./")
+ ("/home/sb/.emacs.d/" (22406 14899 994347 83000) "init.el~" ".git/" "../" "init.el" "recentf" "auto-save-list/" "pyim/" "recentf~" "ido.last" "ido.last~" ".emacs~" "./" "elpa/")
+
+ ("/home/sb/Dropbox/doc/" (22404 60849 259809 399000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jpg/" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "life.org~" "net.org~" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw")
+
+ ("/home/sb/" (22404 60957 361298 449000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" "vim" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" "云南省普通中学学业水平考试考务工作手册2016.4.pdf" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" "a.txt" "2016年7月学业水平考试日程.doc" ".gitconfig" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
+
+ ("/home/sb/Dropbox/" (22404 51868 216391 338000) "Temp/" "Public/" ".spacemacs" "玉溪师院附中2016年7月高中学业水平监考费发放表.xlsx" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "玉溪师院附中2016年7月高中学业水平监考费发放表（现金部分）.xlsx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./" "2016年7月学业水平考试所需物品.docx")
+
+ ("/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/" (22394 29071 178605 751000) "../" "chinese-pyim-pkg.el" "chinese-pyim-autoloads.el~" "chinese-pyim-core.el" ".dir-local.el" "chinese-pyim.elc" "chinese-pyim-core.elc" "chinese-pyim.el" "chinese-pyim-dictools.elc" "chinese-pyim-probe.el" "chinese-pyim-pymap.el" "chinese-pyim-pymap.elc" "chinese-pyim-company.el" "chinese-pyim-devtools.el" "chinese-pyim-autoloads.el" "chinese-pyim-dictools.el" "chinese-pyim-utils.elc" "chinese-pyim-utils.el" "chinese-pyim-benchmark.el" "chinese-pyim-probe.elc" "./")
 
  ("/home/sb/.emacs.d/elpa/" (22394 20776 766287 226000) "goto-chg-20131228.659/" "chinese-pyim-greatdict-20160619.2109/" "org-beautify-theme-readme.txt" "../" "chinese-word-at-point-20150618.1838/" "solarized-theme-20160515.442/" "helm-20160702.338/" "evil-readme.txt" "color-theme-20080305.34/" "chinese-pyim-greatdict-readme.txt" "bind-key-20160227.48/" "org-beautify-theme-20150106.956/" "diminish-20151215.915/" "use-package-20160614.803/" "doremi-20151231.1255/" "doremi-frm-readme.txt" "icicles-readme.txt" "popup-20160531.425/" "pos-tip-20150318.813/" "archives/" "chinese-pyim-readme.txt" "faces+-20151231.1305/" "async-20160513.128/" "ace-jump-helm-line-readme.txt" "evil-20160619.2253/" "doremi-cmd-20160512.1712/" "chinese-fonts-setup-readme.txt" "doremi-cmd-readme.txt" "spacegray-theme-readme.txt" "org-bullets-20140918.1137/" "dash-20160619.611/" "youdao-dictionary-20150913.2344/" "use-package-readme.txt" "frame-fns-20151231.1322/" "org-bullets-readme.txt" "zenburn.el" "chinese-pyim-basedict-20160627.458/" "color-theme-readme.txt" "undo-tree-20140509.522/" "eww-lnum-readme.txt" "doremi-readme.txt" "color-theme-modern-20160411.1846/" "icicles-20160701.922/" "chinese-pyim-20160629.448/" "spacemacs-theme-20160625.847/" "youdao-dictionary-readme.txt" "names-20151201.404/" "gnupg/" "./" "helm-core-20160701.2319/" "chinese-fonts-setup-20160601.2306/" "dropbox-readme.txt" "hexrgb-20151231.1332/")
-
- ("/home/sb/Dropbox/doc/" (22394 27890 391813 689000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" ".#diary.org" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" ".#jw" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "net.org~" "#diary.org#" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw" "net/")
-
- ("/home/sb/.emacs.d/" (22394 25255 523000 303000) "init.el~" ".git/" "../" "init.el" ".#init.el" "#init.el#" "chinese-fonts-setup/" "recentf" "auto-save-list/" "pyim/" "recentf~" "ido.last" "ido.last~" ".emacs~" "./" "elpa/")
-
- ("/home/sb/" (22394 18702 386583 700000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" ".gitconfig" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
 
  ("c:/Users/yxson/Dropbox/doc/" (22393 46649 0 0) "答题卡制作说明.org~" "答题卡制作说明.org" "未整理/" "怡怡的作文.doc" "怡怡" "yxsongbo.github.io/" "yiyi" "xxjs.org" "vim/" "teaching/" "tcpip.org" "res/" "practise" "octopress/" "note.org~" "note.org" "net.org~" "net.org" "net/" "message" "life.org" "jw~" "jw" "hlm" "emacsjwc/" "emacs.org~" "emacs.org" "emacs/" "dtk.org~" "dtk.org" "diary.org~" "diary.org" "contact" "config/" "computer.org" "blog.org" ".vimrc" ".git/" ".emacs" ".directory" ".#jw" "../" "./")
 
  ("c:/Users/yxson/Dropbox/" (22394 6000 0 0) "李勇的足球队.xls" "教务/" "国网学生花名册_2016年02月29日15时36分.xls" "信息技术/" "Temp/" "Public/" "ex/" "doc/" "dictionary.txt" "desktop.ini" "Apps/" "2016年7月附中到三中监考的老师.xls" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" ".spacemacs" ".dropbox.cache/" ".dropbox" "../" "./")
 
  ("/home/" (22359 29227 229441 920000) "../" "sb/" "./")
-
- ("/home/sb/Dropbox/" (22392 29647 149818 496000) "Temp/" "Public/" ".spacemacs" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./")
 
  ("c:/Users/yxsongbo/.emacs.d/" (22267 8908 0 0) "url/" "recentf~" "recentf" "pyim/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "chinese-fonts-setup/" "auto-save-list/" ".git/" ".emacs~" "../" "./")
 

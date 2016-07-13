@@ -43,9 +43,11 @@
 (setq default-input-method "chinese-pyim")
 (global-set-key (kbd "C-\\") 'toggle-input-method)
 ;;选词框设置,可以让字体不能大了可以大些吗不能再大了
-(setq pyim-use-tooltip 'popup)
-(setq x-gtk-use-system-tooltips t)
-(set-face-attribute 'popup-tip-face nil :height 300)
+;; (setq pyim-use-tooltip 'popup)
+;; (setq x-gtk-use-system-tooltips t)
+;; 调涨选词框的大小
+;; 算了，还是让emacs自己调整选词框大小吧(set-face-attribute 'popup-tip-face nil :height 200)
+
 
 (require 'org-bullets)
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
