@@ -15,6 +15,8 @@
 (package-initialize)
 (setq package-unsigned-archives '("gnu"))
 
+(setq org-agenda-files (list "~/Dropbox/doc/jw"
+			     "~/Dropbox/doc/diary.org"))
 ;; use-package
 (require 'use-package)
 
@@ -34,6 +36,8 @@
 (require 'evil)
 (evil-mode 1)
 
+
+(define-key global-map "\C-ca" 'org-agenda)
 ;; chinese-pyim 的简单配置
 ;; 补充：emacs注释的方法
 ;; 先选中区域，然后M-x comment-region，会根据mode自动选择注释类型。
@@ -74,3 +78,15 @@
 
 ;; Enable Chinese word segmentation support (支持中文分词)
 ;; (setq youdao-dictionary-use-chinese-word-segmentation t)
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(org-agenda-files (quote ("~/Dropbox/doc/jw" "~/Dropbox/doc/diary.org"))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )

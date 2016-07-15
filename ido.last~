@@ -39,8 +39,8 @@
 
 ;; ----- ido-work-file-list -----
 (
- "diary.org"
  "jw"
+ "diary.org"
  "net.org"
  "chinese-pyim-core.el"
  "dtk.org"
@@ -53,13 +53,13 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/sb/Dropbox/doc/" (22407 36687 897134 722000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jpg/" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" ".#diary.org" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "life.org~" "net.org~" "#diary.org#" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw")
+
+ ("/home/sb/Dropbox/" (22406 52853 976055 521000) "Temp/" "Public/" ".spacemacs" "玉溪师院附中2016年7月高中学业水平监考费发放表.xlsx" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "玉溪师院附中2016年7月高中学业水平监考费发放表（现金部分）.xlsx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./" "2016年7月学业水平考试所需物品.docx")
+
+ ("/home/sb/" (22407 29103 276033 600000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" "云南省普通中学学业水平考试考务工作手册2016.4.pdf" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" "a.txt" "2016年7月学业水平考试日程.doc" ".gitconfig" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
+
  ("/home/sb/.emacs.d/" (22406 14899 994347 83000) "init.el~" ".git/" "../" "init.el" "recentf" "auto-save-list/" "pyim/" "recentf~" "ido.last" "ido.last~" ".emacs~" "./" "elpa/")
-
- ("/home/sb/Dropbox/doc/" (22404 60849 259809 399000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jpg/" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "life.org~" "net.org~" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw")
-
- ("/home/sb/" (22404 60957 361298 449000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" "vim" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" "云南省普通中学学业水平考试考务工作手册2016.4.pdf" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" "a.txt" "2016年7月学业水平考试日程.doc" ".gitconfig" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
-
- ("/home/sb/Dropbox/" (22404 51868 216391 338000) "Temp/" "Public/" ".spacemacs" "玉溪师院附中2016年7月高中学业水平监考费发放表.xlsx" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "玉溪师院附中2016年7月高中学业水平监考费发放表（现金部分）.xlsx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./" "2016年7月学业水平考试所需物品.docx")
 
  ("/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/" (22394 29071 178605 751000) "../" "chinese-pyim-pkg.el" "chinese-pyim-autoloads.el~" "chinese-pyim-core.el" ".dir-local.el" "chinese-pyim.elc" "chinese-pyim-core.elc" "chinese-pyim.el" "chinese-pyim-dictools.elc" "chinese-pyim-probe.el" "chinese-pyim-pymap.el" "chinese-pyim-pymap.elc" "chinese-pyim-company.el" "chinese-pyim-devtools.el" "chinese-pyim-autoloads.el" "chinese-pyim-dictools.el" "chinese-pyim-utils.elc" "chinese-pyim-utils.el" "chinese-pyim-benchmark.el" "chinese-pyim-probe.elc" "./")
 
