@@ -6,7 +6,7 @@
  ("/home/sb/.emacs.d/elpa/" . "chinese-pyim-20160629.448/")
  ("/home/sb/.emacs.d/" . "elpa/")
  ("/home/sb/Dropbox/" . "doc/")
- ("/home/sb/" . "Dropbox/")
+ ("/home/sb/" . ".emacs.d/")
  ("c:/Users/yxsongbo/" . "Dropbox/")
  ("c:/Users/yxson/Dropbox/doc/" . "net/")
  ("g:/" . ".emacs.d/")
@@ -20,9 +20,9 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/sb/.emacs.d/"
  "/home/sb/Dropbox/doc/"
  "/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/"
- "/home/sb/.emacs.d/"
  "c:/Users/yxson/Dropbox/doc/"
  "c:/Users/yxsongbo/.emacs.d/"
  "c:/Users/yxsongbo/Dropbox/doc/"
@@ -39,6 +39,8 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "myinit.org"
+ "init.el"
  "jw"
  "diary.org"
  "net.org"
@@ -46,20 +48,20 @@
  "dtk.org"
  "computer.org"
  "blog.org"
- "init.el"
  "life.org"
- "note.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/sb/Dropbox/doc/" (22407 36687 897134 722000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jpg/" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" ".#diary.org" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "life.org~" "net.org~" "#diary.org#" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw")
+ ("/home/sb/.emacs.d/" (22411 25922 222388 360000) "init.el~" ".git/" "../" "init.el" ".#init.el" "recentf" "auto-save-list/" "pyim/" "recentf~" "ido.last" "ido.last~" ".emacs~" "./" "elpa/")
 
- ("/home/sb/Dropbox/" (22406 52853 976055 521000) "Temp/" "Public/" ".spacemacs" "玉溪师院附中2016年7月高中学业水平监考费发放表.xlsx" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "玉溪师院附中2016年7月高中学业水平监考费发放表（现金部分）.xlsx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./" "2016年7月学业水平考试所需物品.docx")
+ ("/home/sb/Dropbox/doc/" (22410 63857 33144 666000) "答题卡制作说明.org" "dtk.org" ".git/" ".vimrc" "../" ".emacs" "怡怡" "答题卡制作说明.org~" "yiyi" "jpg/" "jw~ (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "computer.org" "未整理/" "teaching/" "contact" "emacsjwc/" "life.org" ".directory" "hlm" "config/" "practise" "怡怡的作文.doc" "blog.org" "diary.org" "yxsongbo.github.io/" "emacs.org" "res/" "vim/" "note.org~" "net.org" "octopress/" "emacs/" "message" "life.org~" "net.org~" "dtk.org~" "note.org" "tcpip.org" "emacs.org~" "jw (DESKTOP-LL78A41 的冲突副本 2016-04-25)" "./" "xxjs.org" "diary.org~" "jw~" "jw")
 
- ("/home/sb/" (22407 29103 276033 600000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".emacs.d.0703/" ".Xauthority" ".dropbox-dist/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" "云南省普通中学学业水平考试考务工作手册2016.4.pdf" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" "a.txt" "2016年7月学业水平考试日程.doc" ".gitconfig" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
+ ("/home/sb/Dropbox/" (22409 54812 150589 832000) "Temp/" "Public/" ".spacemacs" "玉溪师院附中2016年7月高中学业水平监考费发放表.xlsx" "../" "Apps/" "ex/" "dictionary.txt" "2016年7月学业水平考试工作人员.xlsx" "2015年试题整理.docx" "玉溪师院附中2016年7月高中学业水平监考费发放表（现金部分）.xlsx" "doc/" "信息技术/" ".dropbox.cache/" ".dropbox" "2016年7月附中到三中监考的老师.xls" "国网学生花名册_2016年02月29日15时36分.xls" "教务/" "./" "2016年7月学业水平考试所需物品.docx")
 
- ("/home/sb/.emacs.d/" (22406 14899 994347 83000) "init.el~" ".git/" "../" "init.el" "recentf" "auto-save-list/" "pyim/" "recentf~" "ido.last" "ido.last~" ".emacs~" "./" "elpa/")
+ ("/home/sb/" (22411 15673 582566 184000) "Temp/" "Pictures/" "Public/" ".xsession-errors.old" ".spacemacs" ".lantern/" "Downloads/" "../" ".mozilla/" ".emacs.d/" "Documents/" ".bash_history" "VirtualBox VMs/" ".dbus/" ".gconf/" ".presage/" ".psensor/" ".config/" "Templates/" ".bash_logout" ".gnome/" ".macromedia/" "Desktop/" "examples.desktop" ".sudo_as_admin_successful" ".Xauthority" ".dropbox-dist/" ".emacs.d.space/" "Music/" ".dropbox/" ".gnupg/" "Videos/" "Dropbox/" ".spacemacs.d/" ".ssh/" ".local/" ".byteexec/" ".profile" ".cache/" ".gimp-2.8/" ".pki/" ".emacs.d.zilong/" ".aMule/" ".bashrc" ".adobe/" "a.txt" ".gitconfig" ".xinputrc" ".wget-hsts" "./" ".ICEauthority" ".thumbnails/" ".xsession-errors" ".viminfo")
+
+ ("/usr/share/info/emacs-24/" (22359 53763 764450 134000) "viper.info.gz" "efaq.info.gz" "dbus.info.gz" "srecode.info.gz" "eww.info.gz" "ada-mode.info.gz" "../" "gnus.info.gz" "semantic.info.gz" "calc.info.gz" "sasl.info.gz" "eshell.info.gz" "idlwave.info.gz" "epa.info.gz" "pgg.info.gz" "eieio.info.gz" "vip.info.gz" "ccmode.info.gz" "cl.info.gz" "dired-x.info.gz" "mh-e.info.gz" "pcl-cvs.info.gz" "ido.info.gz" "url.info.gz" "bovine.info.gz" "ebrowse.info.gz" "autotype.info.gz" "reftex.info.gz" "woman.info.gz" "widget.info.gz" "rcirc.info.gz" "wisent.info.gz" "elisp.info.gz" "todo-mode.info.gz" "emacs-gnutls.info.gz" "nxml-mode.info.gz" "eintr.info.gz" "sc.info.gz" "remember.info.gz" "mairix-el.info.gz" "ediff.info.gz" "ses.info.gz" "emacs-mime.info.gz" "speedbar.info.gz" "ert.info.gz" "emacs.info.gz" "ede.info.gz" "tramp.info.gz" "info.info.gz" "edt.info.gz" "smtpmail.info.gz" "auth.info.gz" "newsticker.info.gz" "flymake.info.gz" "forms.info.gz" "eudc.info.gz" "sieve.info.gz" "./" "message.info.gz" "org.info.gz" "octave-mode.info.gz" "erc.info.gz" "htmlfontify.info.gz")
 
  ("/home/sb/.emacs.d/elpa/chinese-pyim-20160629.448/" (22394 29071 178605 751000) "../" "chinese-pyim-pkg.el" "chinese-pyim-autoloads.el~" "chinese-pyim-core.el" ".dir-local.el" "chinese-pyim.elc" "chinese-pyim-core.elc" "chinese-pyim.el" "chinese-pyim-dictools.elc" "chinese-pyim-probe.el" "chinese-pyim-pymap.el" "chinese-pyim-pymap.elc" "chinese-pyim-company.el" "chinese-pyim-devtools.el" "chinese-pyim-autoloads.el" "chinese-pyim-dictools.el" "chinese-pyim-utils.elc" "chinese-pyim-utils.el" "chinese-pyim-benchmark.el" "chinese-pyim-probe.elc" "./")
 

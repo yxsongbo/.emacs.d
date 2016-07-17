@@ -586,7 +586,7 @@ s-w 稍微
 s-x 三星 实现 失效 数学 事项
 s-x-y 宋昕怡
 s-y 所有 使用 适应
-s-z 是在 甚至 设置 实在 数字
+s-z 设置 是在 甚至 实在 数字
 san 三
 san-fen-zhi-yi 三分之一
 san-lan 三栏
@@ -1278,3 +1278,5 @@ a-d-l-y 澳大利亚
 jia-ge 价格
 you-shi 优势
 mei-di 美帝
+bian-liang-de 变量的
+b-l-d 变量的

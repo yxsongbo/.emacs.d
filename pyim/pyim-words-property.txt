@@ -1,7 +1,7 @@
 ;; -*- coding: utf-8 -*-
 测试 :count 4
-宋波 :count 3
-毕红玲 :count 4
+宋波 :count 4
+毕红玲 :count 5
 你好 :count 3
 世界 :count 2
 已经 :count 2
@@ -9,7 +9,7 @@
 可以 :count 5
 作为 :count 3
 选词 :count 3
-设置 :count 2
+设置 :count 3
 不能 :count 4
 中文 :count 2
 微信 :count 2
@@ -36,7 +36,7 @@
 书架 :count 2
 神明 :count 2
 肖艳琼 :count 2
-宋昕怡 :count 3
+宋昕怡 :count 4
 以前 :count 3
 使用 :count 8
 两行 :count 2
